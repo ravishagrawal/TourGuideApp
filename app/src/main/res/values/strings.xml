@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Delhi Tourism</string>
+    <string name="category_heritage">Heritage</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_shopping">Shop</string>
+    <string name="category_eating">Eatout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Museum Lists -->
+    <string name="m_one_Place">Kalam Memorial</string>
+    <string name="m_two_Place">Indian Air Force Museum, Palam</string>
+    <string name="m_three_Place">Red Fort Archaeological Museum</string>
+    <string name="m_four_Place">National Gandhi Museum</string>
+    <string name="m_five_Place">Metro Museum</string>
+
+    <string name="m_one_address">Dilli Haat, Kidwai Nagar West, Kidwai Nagar, New Delhi, Delhi 110023</string>
+    <string name="m_two_address">Palam Road, Nr Hanuman Temple, Palam, New Delhi, Delhi 110010</string>
+    <string name="m_three_address">Red Fort, Chandni Chowk, New Delhi, Delhi 110006</string>
+    <string name="m_four_address">Raj Ghat, New Delhi, India</string>
+    <string name="m_five_address">Ashoka Road, Crossing, Sansad Marg, New Delhi, Delhi 110001</string>
+    <string name="m_time">10AM - 5PM</string>
+
+    <!-- shop Lists -->
+    <string name="s_one_Place">Khan Market</string>
+    <string name="s_two_Place">Palika Bazaar</string>
+    <string name="s_three_Place">Karol Bagh Market</string>
+    <string name="s_four_Place">Dilli Haat</string>
+    <string name="s_five_Place">Tibetan Market</string>
+
+    <string name="s_one_address">46, Khan Market Rd, Rabindra Nagar, New Delhi, Delhi 110003</string>
+    <string name="s_two_address">Palika Bazaar Rd, Palika Bazar, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="s_three_address">"Block 1, WEA, Karol Bagh, New Delhi, Delhi 110060</string>
+    <string name="s_four_address">Sri Aurobindo Marg, Laxmi Bai Nagar, New Delhi, Delhi 110023</string>
+    <string name="s_five_address">Janpath Rd, Janpath, Connaught Place, New Delhi, Delhi 110001</string>
+
+    <string name="s_time">10AM- 10PM</string>
+
+
+    <!-- Eatout Lists -->
+    <string name="e_one_Place">Ap Bhavan</string>
+    <string name="e_two_Place">Dakshin</string>
+    <string name="e_three_Place">Sagar Ratnat</string>
+    <string name="e_four_Place">Amber Restaurant</string>
+    <string name="e_five_Place">Amar Jyoti</string>
+
+    <string name="e_one_address">No. 1, Ashoka Road, Near India Gate, New Delhi, Delhi 110001</string>
+    <string name="e_two_address">Saket District Centre, District Centre, Sector 6, Saket, New Delhi, Delhi 110017</string>
+    <string name="e_three_address">Chanakyapuri, New Delhi, Delhi 110021</string>
+    <string name="e_four_address">N-19, Outer Circle, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="e_five_address">Sarojini Nagar Market, New Delhi, Delhi 110023</string>
+
+    <string name="e_time">10AM- 10PM</string>
+
+    <!-- Heritage Lists -->
+    <string name="h_one_Place">Humayuns Tomb</string>
+    <string name="h_two_Place">Qutub Minar</string>
+    <string name="h_three_Place">The Red Fort</string>
+    <string name="h_four_Place">Jantar Mantar</string>
+    <string name="h_five_Place">Jama Masjid</string>
+    <string name="h_six_Place">Lodhi Tomb</string>
+    <string name="h_seven_Place">India Gate</string>
+
+    <string name="h_one_address">Opposite Dargah Nizamuddin, Mathura Road, New Delhi, Delhi 110013</string>
+    <string name="h_two_address">Mehrauli, New Delhi, Delhi 110030", "7AM- 5PM</string>
+    <string name="h_three_address">Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006</string>
+    <string name="h_four_address">Sansad Marg, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="h_five_address">Meena Bazaar, Jama Masjid, Chandni Chowk, New Delhi, Delhi 110006</string>
+    <string name="h_six_address">Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003</string>
+    <string name="h_seven_address">Rajpath Marg, India Gate, New Delhi, Delhi 110001, Delhi 110006</string>
+
+    <string name="h_time">7AM- 5PM</string>
+
+
+
+</resources>
